@@ -1,0 +1,14 @@
+C:\Users\skacmaz\Desktop\GateController\GateController.Repository\bin\Debug\net6.0\GateController.Repository.deps.json
+C:\Users\skacmaz\Desktop\GateController\GateController.Repository\bin\Debug\net6.0\GateController.Repository.runtimeconfig.json
+C:\Users\skacmaz\Desktop\GateController\GateController.Repository\bin\Debug\net6.0\GateController.Repository.dll
+C:\Users\skacmaz\Desktop\GateController\GateController.Repository\bin\Debug\net6.0\ref\GateController.Repository.dll
+C:\Users\skacmaz\Desktop\GateController\GateController.Repository\bin\Debug\net6.0\GateController.Repository.pdb
+C:\Users\skacmaz\Desktop\GateController\GateController.Repository\obj\Debug\net6.0\GateController.Repository.csproj.AssemblyReference.cache
+C:\Users\skacmaz\Desktop\GateController\GateController.Repository\obj\Debug\net6.0\GateController.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skacmaz\Desktop\GateController\GateController.Repository\obj\Debug\net6.0\GateController.Repository.AssemblyInfoInputs.cache
+C:\Users\skacmaz\Desktop\GateController\GateController.Repository\obj\Debug\net6.0\GateController.Repository.AssemblyInfo.cs
+C:\Users\skacmaz\Desktop\GateController\GateController.Repository\obj\Debug\net6.0\GateController.Repository.csproj.CoreCompileInputs.cache
+C:\Users\skacmaz\Desktop\GateController\GateController.Repository\obj\Debug\net6.0\GateController.Repository.dll
+C:\Users\skacmaz\Desktop\GateController\GateController.Repository\obj\Debug\net6.0\ref\GateController.Repository.dll
+C:\Users\skacmaz\Desktop\GateController\GateController.Repository\obj\Debug\net6.0\GateController.Repository.pdb
+C:\Users\skacmaz\Desktop\GateController\GateController.Repository\obj\Debug\net6.0\GateController.Repository.genruntimeconfig.cache

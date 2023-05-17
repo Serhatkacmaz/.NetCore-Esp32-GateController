@@ -1,0 +1,14 @@
+D:\Development\NetProject\GateController\GateController.Repository\bin\Release\net6.0\GateController.Repository.deps.json
+D:\Development\NetProject\GateController\GateController.Repository\bin\Release\net6.0\GateController.Repository.runtimeconfig.json
+D:\Development\NetProject\GateController\GateController.Repository\bin\Release\net6.0\GateController.Repository.dll
+D:\Development\NetProject\GateController\GateController.Repository\bin\Release\net6.0\GateController.Repository.pdb
+D:\Development\NetProject\GateController\GateController.Repository\obj\Release\net6.0\GateController.Repository.csproj.AssemblyReference.cache
+D:\Development\NetProject\GateController\GateController.Repository\obj\Release\net6.0\GateController.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\NetProject\GateController\GateController.Repository\obj\Release\net6.0\GateController.Repository.AssemblyInfoInputs.cache
+D:\Development\NetProject\GateController\GateController.Repository\obj\Release\net6.0\GateController.Repository.AssemblyInfo.cs
+D:\Development\NetProject\GateController\GateController.Repository\obj\Release\net6.0\GateController.Repository.csproj.CoreCompileInputs.cache
+D:\Development\NetProject\GateController\GateController.Repository\obj\Release\net6.0\GateController.Repository.dll
+D:\Development\NetProject\GateController\GateController.Repository\obj\Release\net6.0\refint\GateController.Repository.dll
+D:\Development\NetProject\GateController\GateController.Repository\obj\Release\net6.0\GateController.Repository.pdb
+D:\Development\NetProject\GateController\GateController.Repository\obj\Release\net6.0\GateController.Repository.genruntimeconfig.cache
+D:\Development\NetProject\GateController\GateController.Repository\obj\Release\net6.0\ref\GateController.Repository.dll
